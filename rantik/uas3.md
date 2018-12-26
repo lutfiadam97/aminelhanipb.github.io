@@ -7,6 +7,13 @@ bigimg: /img/baloon.jpg
 
 **Assalamualaikum** teman-teman. Bagaimana kabarmu hari ini ? semoga dalam keadaan baik dan sehat wal afiat. 
 
+وَلۡتَکُنۡ مِّنۡکُمۡ اُمَّۃٌ یَّدۡعُوۡنَ اِلَی الۡخَیۡرِ وَ یَاۡمُرُوۡنَ بِالۡمَعۡرُوۡفِ وَ یَنۡہَوۡنَ عَنِ الۡمُنۡکَرِ ؕ وَ اُولٰٓئِکَ ہُمُ الۡمُفۡلِحُوۡنَ
+
+*Waltakun minkum ummatun yad’uuna ilal khairi waya’muruuna bil ma’ruufi wayanhauna ‘anil munkari wa-uula-ika humul muflihuun(a);*
+
+Dan hendaklah ada di antara kamu segolongan umat yang menyeru kepada kebajikan, menyuruh kepada yang ma’ruf dan mencegah dari yang munkar, merekalah orang-orang yang beruntung. 
+**―QS. Ali Imran:104**
+
 Untuk memperkuat bekalmu untuk UAS, ada hidangan rantik yang bisa kamu pakai untuk belajar. Terdapat berbagai versi yang bisa kamu pakai, langsung check it out.
 
 ## Paket Hemat
