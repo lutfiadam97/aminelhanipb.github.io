@@ -23,7 +23,7 @@ description: Rohis Ilmu Komputer 54
 
 # List of links in the navigation bar
 navbar-links:
-  Apa Itu Binary: "aboutme"
+  Apa Itu Binary: "sekilas"
   Rantik:
     - UAS Semester 3: "rantik/uas3"
   Gabung: "gabung"
